@@ -1,0 +1,111 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  margin: 50px auto;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.middle-container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.bottom-luffy-chibi{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  width: 5%;
+}
+
+.top-luffy-chibi{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+  width: 5%;
+  padding-bottom: 100px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.onepiece{
+  padding-top: 100px;
+}
+
+.ship_one_piece{
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.zoro{
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0
+  }
+
+button{
+  background-color: #66BFBF;
+  font-size: 2rem;
+  border-radius: 8px;
+  color: white;
+  margin-top: 25px;
+  border-color: #66BFBF;
+}
+
+a{
+  text-decoration: none;
+  margin: 10px 20px;
+}
+
+a:hover{
+  color: white;
+}
+
+.footer-line{
+  color: white;
+  padding-top: 20px;
+  font-size: 0.75rem;
+}
